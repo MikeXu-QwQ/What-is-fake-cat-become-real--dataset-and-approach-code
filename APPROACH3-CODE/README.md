@@ -1,3 +1,8 @@
+AI MODEL FOR APPROACH3---
+
+https://huggingface.co/facebook/convnext-base-224
+
+
 To install convnext is not a easy thing to me because i met multiple techinical issues(i spent 3hours to dealing with this thing with the help of gpt),which make me unable to train this model for longer.(just train 1 hour).i have to ask gpt for help for many process of it.
 So its important to try my best to let others know what CONDITION is required:
 
@@ -36,4 +41,5 @@ print("Using device:", device)
 
 
 ONE MORE TIPS:
+
 USE DATESET IN THE [CODE] FOLDER BECAUSE I HAVE DIVIDED INTO TRAIN&VALIDATION.
