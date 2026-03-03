@@ -1,0 +1,10 @@
+AI-MODEL-https://huggingface.co/facebook/convnext-base-224
+
+CAT BODY LANGUAGE SCIENTIFIC REFERNECE-
+https://www.hanspub.org/journal/paperinformation?paperid=103572
+https://spca.org/pet-tips/a-visual-guide-to-cat-behavior/
+https://walkandwagchapelhill.com/cat-body-language/
+https://www.sciencedirect.com/science/article/abs/pii/S0376635723001419?via%3Dihub
+
+
+
