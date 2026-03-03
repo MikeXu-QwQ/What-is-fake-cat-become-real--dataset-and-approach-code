@@ -1,0 +1,4 @@
+Animalistic-RC(real cat)
+Animalistic-FCAI(AI realistic drawing)
+Animalistic-FCCA(Cartoon)
+Animalistic-FCNC(no cat)
