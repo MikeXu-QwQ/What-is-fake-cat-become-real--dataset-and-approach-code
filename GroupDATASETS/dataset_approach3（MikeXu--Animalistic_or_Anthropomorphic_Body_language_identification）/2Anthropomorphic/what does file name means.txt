@@ -1,0 +1,4 @@
+Anthropomorphic-RC(real cat)
+Anthropomorphic-FCAI(AI realistic drawing)
+Anthropomorphic-FCCA(Cartoon)
+Anthropomorphic-FCNC(no cat)
